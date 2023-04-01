@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.vscode
+.idea
+.DS_Store
+node_modules
+.env
+build/
+*.psd
